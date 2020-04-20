@@ -8,3 +8,5 @@ $brew install nkf
 $pip install git+https://github.com/miurahr/pykakasi
 
 Then, you will get valid mail addresses from RSMeiboCsv.csv ;)
+
+NOTE: when you get RSMeiboCsv.csv from the system, please do not change any output setting.
